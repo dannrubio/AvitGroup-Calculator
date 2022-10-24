@@ -1,0 +1,22 @@
+{
+  "name": "avitgroup-calculator",
+  "version": "1.0.0",
+  "description": "Running the AvitGroup Calculator Problem on NodeJS using .JS, .CS objects",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dannrubio/AvitGroup-Calculator.git"
+  },
+  "author": "dann.rubio@gmail.com",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dannrubio/AvitGroup-Calculator/issues"
+  },
+  "homepage": "https://github.com/dannrubio/AvitGroup-Calculator#readme",
+  "dependencies": {
+    "readline": "^1.3.0"
+  }
+}

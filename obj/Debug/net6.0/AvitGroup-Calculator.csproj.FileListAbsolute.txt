@@ -1,0 +1,15 @@
+C:\Users\BigBadDann\source\repos\nodejs\AvitGroup-Calculator\bin\Debug\net6.0\AvitGroup-Calculator.exe
+C:\Users\BigBadDann\source\repos\nodejs\AvitGroup-Calculator\bin\Debug\net6.0\AvitGroup-Calculator.deps.json
+C:\Users\BigBadDann\source\repos\nodejs\AvitGroup-Calculator\bin\Debug\net6.0\AvitGroup-Calculator.runtimeconfig.json
+C:\Users\BigBadDann\source\repos\nodejs\AvitGroup-Calculator\bin\Debug\net6.0\AvitGroup-Calculator.dll
+C:\Users\BigBadDann\source\repos\nodejs\AvitGroup-Calculator\bin\Debug\net6.0\AvitGroup-Calculator.pdb
+C:\Users\BigBadDann\source\repos\nodejs\AvitGroup-Calculator\obj\Debug\net6.0\AvitGroup-Calculator.csproj.AssemblyReference.cache
+C:\Users\BigBadDann\source\repos\nodejs\AvitGroup-Calculator\obj\Debug\net6.0\AvitGroup-Calculator.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\BigBadDann\source\repos\nodejs\AvitGroup-Calculator\obj\Debug\net6.0\AvitGroup-Calculator.AssemblyInfoInputs.cache
+C:\Users\BigBadDann\source\repos\nodejs\AvitGroup-Calculator\obj\Debug\net6.0\AvitGroup-Calculator.AssemblyInfo.cs
+C:\Users\BigBadDann\source\repos\nodejs\AvitGroup-Calculator\obj\Debug\net6.0\AvitGroup-Calculator.csproj.CoreCompileInputs.cache
+C:\Users\BigBadDann\source\repos\nodejs\AvitGroup-Calculator\obj\Debug\net6.0\AvitGroup-Calculator.dll
+C:\Users\BigBadDann\source\repos\nodejs\AvitGroup-Calculator\obj\Debug\net6.0\refint\AvitGroup-Calculator.dll
+C:\Users\BigBadDann\source\repos\nodejs\AvitGroup-Calculator\obj\Debug\net6.0\AvitGroup-Calculator.pdb
+C:\Users\BigBadDann\source\repos\nodejs\AvitGroup-Calculator\obj\Debug\net6.0\AvitGroup-Calculator.genruntimeconfig.cache
+C:\Users\BigBadDann\source\repos\nodejs\AvitGroup-Calculator\obj\Debug\net6.0\ref\AvitGroup-Calculator.dll
