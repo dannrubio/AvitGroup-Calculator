@@ -6,15 +6,15 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v6.0": {
-      "AvitGroup-Calculator/1.0.0": {
+      "avitgroup-calculator/1.0.0": {
         "runtime": {
-          "AvitGroup-Calculator.dll": {}
+          "avitgroup-calculator.dll": {}
         }
       }
     }
   },
   "libraries": {
-    "AvitGroup-Calculator/1.0.0": {
+    "avitgroup-calculator/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""

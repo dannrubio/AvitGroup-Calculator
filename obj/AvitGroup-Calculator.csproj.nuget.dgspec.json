@@ -1,15 +1,15 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\BigBadDann\\source\\repos\\nodejs\\AvitGroup-Calculator\\AvitGroup-Calculator.csproj": {}
+    "C:\\Users\\BigBadDann\\source\\repos\\nodejs\\AvitGroup-Calculator\\avitgroup-calculator.csproj": {}
   },
   "projects": {
-    "C:\\Users\\BigBadDann\\source\\repos\\nodejs\\AvitGroup-Calculator\\AvitGroup-Calculator.csproj": {
+    "C:\\Users\\BigBadDann\\source\\repos\\nodejs\\AvitGroup-Calculator\\avitgroup-calculator.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\BigBadDann\\source\\repos\\nodejs\\AvitGroup-Calculator\\AvitGroup-Calculator.csproj",
-        "projectName": "AvitGroup-Calculator",
-        "projectPath": "C:\\Users\\BigBadDann\\source\\repos\\nodejs\\AvitGroup-Calculator\\AvitGroup-Calculator.csproj",
+        "projectUniqueName": "C:\\Users\\BigBadDann\\source\\repos\\nodejs\\AvitGroup-Calculator\\avitgroup-calculator.csproj",
+        "projectName": "avitgroup-calculator",
+        "projectPath": "C:\\Users\\BigBadDann\\source\\repos\\nodejs\\AvitGroup-Calculator\\avitgroup-calculator.csproj",
         "packagesPath": "C:\\Users\\BigBadDann\\.nuget\\packages\\",
         "outputPath": "C:\\Users\\BigBadDann\\source\\repos\\nodejs\\AvitGroup-Calculator\\obj\\",
         "projectStyle": "PackageReference",

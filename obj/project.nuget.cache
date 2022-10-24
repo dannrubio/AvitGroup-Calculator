@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "nlX1J81HJy9FG9Fq7nJO+ED18s7GrGUQVwlKAF4y3OxxZOMghiMLhClgbSmLBHzzckoWS9h2dFhoydjB2BOkfg==",
+  "dgSpecHash": "R2epi0mohxrt3dNMSI/CBQ03SXHcpea8C7lhQAfWkNh5m2aVqpkVT4sTGmjFbpM8Xf2fgOVcv7VQuCNWI/Je8g==",
   "success": true,
-  "projectFilePath": "C:\\Users\\BigBadDann\\source\\repos\\nodejs\\AvitGroup-Calculator\\AvitGroup-Calculator.csproj",
+  "projectFilePath": "C:\\Users\\BigBadDann\\source\\repos\\nodejs\\AvitGroup-Calculator\\avitgroup-calculator.csproj",
   "expectedPackageFiles": [],
   "logs": []
 }

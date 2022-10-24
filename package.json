@@ -8,14 +8,14 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/dannrubio/AvitGroup-Calculator.git"
+    "url": "git+https://github.com/dannrubio/avitgroup-calculator.git"
   },
   "author": "dann.rubio@gmail.com",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/dannrubio/AvitGroup-Calculator/issues"
+    "url": "https://github.com/dannrubio/avitgroup-calculator/issues"
   },
-  "homepage": "https://github.com/dannrubio/AvitGroup-Calculator#readme",
+  "homepage": "https://github.com/dannrubio/avitgroup-calculator#readme",
   "dependencies": {
     "readline": "^1.3.0"
   }
